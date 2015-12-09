@@ -1,0 +1,10 @@
+{
+	"signature": { "keyid": "offline", "sig": "$signature" },
+	"signed": { 
+		"public_keys": { "online": "MDwwDQYJKoZIhvcNAQEBBQADKwAwKAIhANONu7SSB8x4HHL0UJkbDk309DN8Db+5wgj/M8cbmBPRAgMBAAE=" },
+	    "delegations": [
+	    	{ "name": "verified", "public_key": "offline" },
+	    	{ "name": "recent", "public_key": "online" }
+	    ]
+	 }
+}

@@ -1,0 +1,8 @@
+{
+  "signatures": { "keyid": "online-public.pem", "sig": "" },
+  "signed": {
+    "expires": "",
+      "meta": {
+      }
+    }
+  }

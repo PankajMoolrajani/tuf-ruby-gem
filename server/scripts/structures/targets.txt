@@ -1,0 +1,10 @@
+{
+  "signature": { "keyid": "offline", "sig": "" },
+  "signed": {
+    "public_keys": { "online": "" },
+    "delegations": [
+      { "name": "verified", "public_key": "offline" },
+      { "name": "recent", "public_key": "online" }
+    ]
+  }
+}

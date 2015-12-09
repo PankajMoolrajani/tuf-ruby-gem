@@ -1,0 +1,8 @@
+{
+  "signature": { "keyid": "", "sig": "" },
+  "signed": {
+    "files": {
+      
+    }
+  }
+}

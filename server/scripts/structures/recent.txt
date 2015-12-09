@@ -1,0 +1,8 @@
+{
+  "signature": { "keyid": "online", "sig": "" },
+  "signed": {
+  "public_keys": {},
+    "files": {
+    }
+  }
+}

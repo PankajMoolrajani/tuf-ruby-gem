@@ -1,0 +1,7 @@
+"signed": {
+    "public_keys": { "online": "7b1fd6094c6b87c196f1ff423527da38" },
+    "delegations": [
+      { "name": "verified", "public_key": "offline" },
+      { "name": "recent", "public_key": "online" }
+    ]
+  }

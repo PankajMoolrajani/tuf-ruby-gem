@@ -1,0 +1,10 @@
+{
+  "signature": { "keyid": "offline", "sig": "" },
+  "signed": {
+  	"public_keys": {
+  	
+  	}
+    "files": {
+    }
+  }
+}
